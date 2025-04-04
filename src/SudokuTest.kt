@@ -1,5 +1,4 @@
 
-
     val invalidBoard1 = arrayOf(
         charArrayOf('5', '3', '5', '.', '7', '.', '.', '.', '.'),
         charArrayOf('6', '.', '.', '1', '9', '5', '.', '.', '.'),

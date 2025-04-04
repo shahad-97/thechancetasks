@@ -8,7 +8,8 @@ fun main() {
     )
 
     for ((ip, expected) in testCases) {
-        val result = isValidIPv4(ip)
+        val result = isValidIpv4(ip)
         println("Testing $ip: Expected $expected, got $result")
+
     }
 }
